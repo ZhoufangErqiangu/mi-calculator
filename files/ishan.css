@@ -1,37 +1,77 @@
-BODY {
-	BACKGROUND-IMAGE: url(../index_images/bg_body2.jpg); LINE-HEIGHT: 150%; BACKGROUND-COLOR: #515151; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #eee
+body {
+  background-image: url(../index_images/bg_body2.jpg);
+  line-height: 150%;
+  background-color: #515151;
+  background-attachment: fixed;
+  background-repeat: repeat-x;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #eee;
 }
-TABLE {
-	BORDER-BOTTOM-COLOR: #666; BORDER-TOP-COLOR: #666; BORDER-RIGHT-COLOR: #666; BORDER-LEFT-COLOR: #666
+table {
+  border-bottom-color: #666;
+  border-top-color: #666;
+  border-right-color: #666;
+  border-left-color: #666;
 }
-TD {
-	BORDER-BOTTOM-COLOR: #999; PADDING-BOTTOM: 5px; BORDER-TOP-COLOR: #999; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #eee; BORDER-RIGHT-COLOR: #999; FONT-SIZE: 14px; BORDER-LEFT-COLOR: #999; PADDING-TOP: 5px
+td {
+  border-bottom-color: #999;
+  padding-bottom: 5px;
+  border-top-color: #999;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #eee;
+  border-right-color: #999;
+  font-size: 14px;
+  border-left-color: #999;
+  padding-top: 5px;
 }
-A {
-	COLOR: #fff0d9; FONT-SIZE: 12px
+a {
+  color: #fff0d9;
+  font-size: 12px;
 }
 .title {
-	COLOR: #33ffff; FONT-SIZE: 12px
+  color: #33ffff;
+  font-size: 12px;
 }
 .td01 {
-	BACKGROUND-IMAGE: url(../images/con_c_link3.gif)
+  background-image: url(../images/con_c_link3.gif);
 }
-HR {
-	HEIGHT: 1px; COLOR: #666
+hr {
+  height: 1px;
+  color: #666;
 }
 .bt {
-	BORDER-BOTTOM: #002d96 1px solid; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
-            StartColorStr=#FFFFFF, EndColorStr=#9DBCEA); BORDER-LEFT: #002d96 1px solid; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; COLOR: black; FONT-SIZE: 12px; BORDER-TOP: #002d96 1px solid; CURSOR: hand; BORDER-RIGHT: #002d96 1px solid; PADDING-TOP: 2px
+  border-bottom: #002d96 1px solid;
+  filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+            StartColorStr=#FFFFFF, EndColorStr=#9DBCEA);
+  border-left: #002d96 1px solid;
+  padding-left: 2px;
+  padding-right: 2px;
+  color: black;
+  font-size: 12px;
+  border-top: #002d96 1px solid;
+  cursor: hand;
+  border-right: #002d96 1px solid;
+  padding-top: 2px;
 }
 .org {
-	COLOR: #fc0
+  color: #fc0;
 }
 .MK {
-	BORDER-BOTTOM: #666 1px solid; MARGIN-BOTTOM: 10px
+  border-bottom: #666 1px solid;
+  margin-bottom: 10px;
 }
-.MK P {
-	PADDING-BOTTOM: 0px; MARGIN: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+.MK p {
+  padding-bottom: 0px;
+  margin: 5px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
 }
-.MK OL {
-	PADDING-BOTTOM: 3px; MARGIN: 5px 5px 5px 18px; PADDING-LEFT: 10px; PADDING-RIGHT: 3px; PADDING-TOP: 3px
+.MK ol {
+  padding-bottom: 3px;
+  margin: 5px 5px 5px 18px;
+  padding-left: 10px;
+  padding-right: 3px;
+  padding-top: 3px;
 }
